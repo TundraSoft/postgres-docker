@@ -1,0 +1,2 @@
+/data true postgres:postgres 0755 0755
+/run/postgresql true postgres:postgres 0755 0755
